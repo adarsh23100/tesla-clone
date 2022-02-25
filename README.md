@@ -1,3 +1,8 @@
+## Tesla Clone website using React and Redux
+
+Link to view the website - https://adarsh23100.github.io/tesla-clone/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts

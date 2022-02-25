@@ -24,7 +24,7 @@ function Section({title, description, leftBtnText, rightBtnText, backgroundImg})
             }
         </ButtonGroup>
             </Fade>
-        <DownArrow src="/images/down-arrow.svg" />
+        <DownArrow src="/tesla-clone/images/down-arrow.svg" />
         </Buttons>
     </Wrap>
   )
@@ -44,7 +44,7 @@ const Wrap = styled.div`
     justify-content: space-between;
     align-items: center;
     scroll-behavior: smooth;
-    background-image: ${props => `url("/images/${props.bgImage}")`}
+    background-image: ${props => `url("/tesla-clone/images/${props.bgImage}")`}
 `
 
 const ItemText = styled.div`
