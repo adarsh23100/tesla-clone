@@ -43,6 +43,7 @@ const Wrap = styled.div`
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
+    scroll-behavior: smooth;
     background-image: ${props => `url("/images/${props.bgImage}")`}
 `
 
